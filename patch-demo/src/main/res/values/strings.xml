@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PatchLibrary</string>
+    <string name="description">先编译APP，改动之后再编译一个新Apk</string>
+    <string name="diff">将新生成的apk放在/sdcard/new.apk，计算偏差，生成patch文件。</string>
+    <string name="make">将patch文件放到/sdcard/patch，合成新版本apk文件。</string>
+    <string name="diff_done">patch包已经生成到</string>
+    <string name="diff_failed">patch包生成失败！</string>
+    <string name="make_failed">apk生成失败！</string>
+    <string name="make_done">apk生成到</string>
+    <string name="description2">检查是否成功</string>
+    <string name="permission_invalid">没有读写文件权限!</string>
+</resources>
